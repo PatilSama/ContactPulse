@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/bg_c_layout" /> <!-- Change this color to the desired pressed color -->
+        </shape>
+    </item>
+
+    <!-- Default state -->
+    <item android:state_pressed="false">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/white" /> <!-- Change this color to the default color -->
+        </shape>
+    </item>
+</selector>

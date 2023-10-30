@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275813025908",
+    "project_id": "contact-pulse",
+    "storage_bucket": "contact-pulse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275813025908:android:5c41a4252b3d8f1e802921",
+        "android_client_info": {
+          "package_name": "com.example.contactpulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaE7Kaq4JObPKedRMbp8pKemgUMa8Bxds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
